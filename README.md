@@ -14,3 +14,6 @@
   + pip install pandas
   + pip install scikit-learn
   + pip install gensim
+# Required Dataset
+  We prepared dataset for experiments.[Access github]
+(https://github.com/Messi-Q/ReChecker)
