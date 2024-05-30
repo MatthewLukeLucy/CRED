@@ -7,6 +7,7 @@
     4.pandas
     5.scikit-learn
     6.gensim
+    7.solidity-parser
   Run the following script to install the required packages.
   + pip install --upgrade pip
   + pip install --upgrade tensorflow
@@ -23,3 +24,8 @@
     + Constructe cross-contract semantic graph.
     + RCSG are vectorized for input to neural network.
   + Trained RCSG to detect reentrancy vulnerability.
+# Usage
+  + Run CSG_AST.py to constructe CSG.
+  + Run RCSG.py to constructe RCSG.
+  + Run word2vec.py to vectorization.
+  + Run gen.py to train the model to get the final result.
