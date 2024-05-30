@@ -8,9 +8,9 @@
     5.scikit-learn
     6.gensim
   Run the following script to install the required packages.
-  *pip install --upgrade pip
-  *pip install --upgrade tensorflow
-  *pip install keras
-  *pip install pandas
-  *pip install scikit-learn
-  *pip install gensim
+  + pip install --upgrade pip
+  + pip install --upgrade tensorflow
+  + pip install keras
+  + pip install pandas
+  + pip install scikit-learn
+  + pip install gensim
